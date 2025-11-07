@@ -63,15 +63,26 @@ streamlit run app.py
 
 - SHL-Assessment-Recommender
 
+<img width="1366" height="726" alt="shl_assessment_reommender" src="https://github.com/user-attachments/assets/840b73dd-dfff-40a2-b157-71c3fd7b5ee2" />
+
+
 ## API Requests
 
 - /health
 
+<img width="385" height="203" alt="health" src="https://github.com/user-attachments/assets/8d536a62-c5ef-41f9-a36e-6dda00034561" />
+
+
 - /recommend
+
+<img width="1357" height="729" alt="recommend" src="https://github.com/user-attachments/assets/a69bc1c7-eecd-400f-bf0c-89f4c5d21fc0" />
+
+<img width="1366" height="726" alt="shl_assessment_reommender" src="https://github.com/user-attachments/assets/a6855e0f-ca6f-4df0-b453-981c77bd20d4" />
+
 
 ## Contact
 
-If you have any questions, suggestions, or need assistance related to the CSV-File-Utility-Tool, feel free to reach out to Me.
+If you have any questions, suggestions, or need assistance related to the SHL-Assessment-Recommender, feel free to reach out to Me.
 
 - MailId - namdeomohit198@gmail.com
 - Mob No. - 9131552292
