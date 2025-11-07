@@ -26,8 +26,8 @@ if st.button("🔎 Get Recommendations"):
         try:
             with st.spinner("Fetching recommendations..."):
                 res = requests.post(
-                    # "https://shl-assessment-recommendation-system-xx1e.onrender.com/recommend",
-                    "http://127.0.0.1:8000/recommend", #for localhost
+                    "https://shl-assessment-recommender-kyoc.onrender.com/recommend",
+                    # "http://127.0.0.1:8000/recommend", #for localhost
                     json={"query": query},
                     timeout=15
                 )
